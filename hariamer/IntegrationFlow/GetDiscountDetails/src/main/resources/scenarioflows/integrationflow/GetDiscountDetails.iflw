@@ -8,6 +8,8 @@
             <ifl:property>
                 <key>httpSessionHandling</key>
                 <value>None</value>
+<key>httpSessionHandling</key>
+                <value>None</value>
             </ifl:property>
             <ifl:property>
                 <key>accessControlMaxAge</key>
